@@ -7,7 +7,7 @@ Rohan
 Ujjwal
 <br>
 Utkarsh
-<pre> we are a team and our slogan is </pre>
+<h3> we are a team and our slogan is </h3>
   <b> " If we want to make our Earth to look like Earth then we have Behave like Human's not only to look like Human's"</b>
   <br><br>
 
