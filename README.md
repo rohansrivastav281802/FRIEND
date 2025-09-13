@@ -9,6 +9,7 @@ Ujjwal
 Utkarsh
 <pre> we are a team and our slogan is </pre>
   <b> " If we want to make our Earth to look like Earth then we have Behave like Human's not only to look like Human's"</b>
+  <br><br>
 
 <p>🌟
 "Your city deserves the best — and it starts with you. Every pothole, broken streetlight, or overflowing bin you see is not just a problem, it's an opportunity for change. With our platform, your voice becomes action. In just a few clicks, you can report issues, track their resolution, and see real progress happening around you. Together, we can transform complaints into solutions and turn our neighborhoods into cleaner, safer, and stronger communities. Be the change your city needs — join us and let’s build a better tomorrow, one report at a time."
